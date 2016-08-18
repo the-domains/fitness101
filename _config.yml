@@ -1,4 +1,3 @@
-layout_spectrum: 0.05958033609203994
 typography_spectrum: 0.18741665314882994
 color:
   brandStrength: 0.9907011038158089
@@ -6,9 +5,13 @@ color:
   saturation: 0.6766814670991153
   rhythmicContrast: 0.3561609780881554
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+layout_spectrum: 0.05958033609203994
+author:
+  name: COLIN MENZIES
+  email: colemenzies@gmail.com
 name: Fitness101
