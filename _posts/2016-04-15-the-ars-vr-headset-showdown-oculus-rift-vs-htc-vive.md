@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T23:00:25.487Z'
+datePublished: '2016-08-18T23:03:54.673Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
 hasPage: true
@@ -18,7 +18,7 @@ related: []
 author:
   - {}
 via: {}
-dateModified: '2016-08-18T23:00:24.648Z'
+dateModified: '2016-08-18T23:03:54.114Z'
 title: ''
 app_links: []
 publisher: {}
