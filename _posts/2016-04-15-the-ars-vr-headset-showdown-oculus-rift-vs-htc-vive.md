@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-18T22:59:31.133Z'
+datePublished: '2016-08-18T23:00:25.487Z'
 sourcePath: _posts/2016-04-15-the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive.md
 inFeed: true
-isBasedOnUrl: >-
-  http://arstechnica.com/gaming/2016/04/the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/
-hasPage: false
+hasPage: true
 keywords:
   - vive
   - rift
@@ -20,7 +18,7 @@ related: []
 author:
   - {}
 via: {}
-dateModified: '2016-08-18T22:59:30.778Z'
+dateModified: '2016-08-18T23:00:24.648Z'
 title: ''
 app_links: []
 publisher: {}
@@ -28,6 +26,7 @@ description: ''
 inLanguage: en
 inNav: false
 starred: false
+url: the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
