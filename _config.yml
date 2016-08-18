@@ -15,5 +15,9 @@ author:
   name: COLIN MENZIES
   email: colemenzies@gmail.com
 name: Fitness101
+navigation:
+  - name: 2016 Spartan World Championship
+    id: 19737fe3-dd88-4e35-8227-bc4c1a93193a
+    type: content
 title: Spartan
 description: You'll know when you cross the finish line"
